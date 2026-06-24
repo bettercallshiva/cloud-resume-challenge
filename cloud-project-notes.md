@@ -286,7 +286,7 @@ Automated AWS infrastructure provisioning
 
 Project:
 
-Cloud Resume Challenge
+Cloud Resume Challengegit sta
 
 Skills Demonstrated:
 
@@ -295,3 +295,40 @@ React, Git, GitHub, Deployment Workflows, Cloud Fundamentals
 Repository:
 
 https://github.com/bettercallshiva/cloud-resume-challenge
+---
+
+## Linux Environment Setup (WSL)
+
+### Objective
+
+Move development workflow from Windows PowerShell to Ubuntu Linux (WSL2).
+
+### Commands Learned
+
+whoami
+pwd
+ls
+cd
+git --version
+node -v
+npm -v
+
+### Results
+
+- Ubuntu 24.04 LTS verified
+- WSL2 functioning correctly
+- Node.js installed inside Ubuntu
+- npm installed inside Ubuntu
+- React application runs successfully from Linux terminal
+- Project accessible via /mnt/c/Users/HP/Desktop/cloud-resume-challenge
+
+### Key Learning
+
+Most cloud environments use Linux. Working from Ubuntu provides experience closer to real cloud servers and DevOps environments.
+
+### Skills Gained
+
+- Linux terminal navigation
+- WSL usage
+- Linux package management
+- Cross-platform development workflow
